@@ -1,0 +1,15 @@
+C:\PROGRAMOWANIE\APBD\cw2\cw2-s26582\cw2\bin\Debug\net9.0\cw2.exe
+C:\PROGRAMOWANIE\APBD\cw2\cw2-s26582\cw2\bin\Debug\net9.0\cw2.deps.json
+C:\PROGRAMOWANIE\APBD\cw2\cw2-s26582\cw2\bin\Debug\net9.0\cw2.runtimeconfig.json
+C:\PROGRAMOWANIE\APBD\cw2\cw2-s26582\cw2\bin\Debug\net9.0\cw2.dll
+C:\PROGRAMOWANIE\APBD\cw2\cw2-s26582\cw2\bin\Debug\net9.0\cw2.pdb
+C:\PROGRAMOWANIE\APBD\cw2\cw2-s26582\cw2\obj\Debug\net9.0\cw2.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROGRAMOWANIE\APBD\cw2\cw2-s26582\cw2\obj\Debug\net9.0\cw2.AssemblyInfoInputs.cache
+C:\PROGRAMOWANIE\APBD\cw2\cw2-s26582\cw2\obj\Debug\net9.0\cw2.AssemblyInfo.cs
+C:\PROGRAMOWANIE\APBD\cw2\cw2-s26582\cw2\obj\Debug\net9.0\cw2.csproj.CoreCompileInputs.cache
+C:\PROGRAMOWANIE\APBD\cw2\cw2-s26582\cw2\obj\Debug\net9.0\cw2.sourcelink.json
+C:\PROGRAMOWANIE\APBD\cw2\cw2-s26582\cw2\obj\Debug\net9.0\cw2.dll
+C:\PROGRAMOWANIE\APBD\cw2\cw2-s26582\cw2\obj\Debug\net9.0\refint\cw2.dll
+C:\PROGRAMOWANIE\APBD\cw2\cw2-s26582\cw2\obj\Debug\net9.0\cw2.pdb
+C:\PROGRAMOWANIE\APBD\cw2\cw2-s26582\cw2\obj\Debug\net9.0\cw2.genruntimeconfig.cache
+C:\PROGRAMOWANIE\APBD\cw2\cw2-s26582\cw2\obj\Debug\net9.0\ref\cw2.dll
